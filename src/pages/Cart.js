@@ -122,7 +122,7 @@ const Cart = () => {
               <div className="col-md-4">
                 <div className="card mb-4">
                   <div className="card-header py-3 bg-light">
-                    <h5 className="mb-0">Order Summary</h5>
+                    <h5 className="mb-0">Order Summaryssssssss</h5>
                   </div>
                   <div className="card-body">
                     <ul className="list-group list-group-flush">
