@@ -1,0 +1,48 @@
+.App{
+    display: flex;
+    justify-content: center;
+}
+
+label {
+    font-weight: bold;
+    display: flex;
+    margin-bottom: 5px;
+}
+
+.sex {
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+}
+.sex label{
+    margin-right: 2%;
+    padding: 5px;
+}
+
+.error{
+    color: red;
+}
+
+input[type='text'],
+input[type='email'],
+input[type='password'],
+textarea,
+select
+    {
+    display: block;
+    width: 400px;
+    padding: 6px 12px;
+    font-size: 14px;
+    color: #555;
+    line-height: 1.4;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+button{
+    margin: 1%;
+    padding: 0 2%;
+    font-weight: bolder;
+}
