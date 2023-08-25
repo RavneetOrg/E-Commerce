@@ -19,7 +19,6 @@ function Main() {
                 longer. At vero eos et accusamus et iusto odio dignissimos
                 ducimus qui blanditiis praesentium voluptatum deleniti atque
                 You are being redirected to the authorized application.
-
               </p>
             </div>
           </div>
