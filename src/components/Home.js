@@ -16,7 +16,7 @@ function Main() {
               <p className="card-text fs-5 d-none d-sm-block ">
                 This is a wider card with supporting text below as a natural
                 lead-in to additional content. This content is a little bit
-                longer. At vero eos et accusamus et iusto odio dignissimos
+                longer. At vero eos dio dignissimos
                 ducimus qui blanditiis praesentium voluptatu
               </p>
             </div>
